@@ -1,0 +1,636 @@
+department,quarter,class_name,professor_name,section
+Applied Mathematics,Fall24,AM3,Jelliffe Jackson,Section 01
+Applied Mathematics,Fall24,AM10,Yonatan Katznelson,Section 01
+Applied Mathematics,Winter25,AM10,Jonathan Rice Katznelson,Section 01
+Applied Mathematics,Spring25,AM10,Jonathan Rice Katznelson,Section 01
+Applied Mathematics,Fall24,AM11A,Julie Simons,Section 01
+Applied Mathematics,Winter25,AM11A,Julie Simons,Section 01
+Applied Mathematics,Spring25,AM11A,Julie Simons,Section 01
+Applied Mathematics,Fall24,AM11B,Yonatan Katznelson,Section 01
+Applied Mathematics,Winter25,AM11B,Jelliffe Jackson,Section 01
+Applied Mathematics,Spring25,AM11B,Jelliffe Jackson,Section 01
+Applied Mathematics,Fall24,AM20,Jonathan Rice Katznelson,Section 01
+Applied Mathematics,Winter25,AM20,Qi Gong,Section 01
+Applied Mathematics,Spring25,AM20,Jonathan Rice Katznelson,Section 01
+Applied Mathematics,Fall24,AM30,Javier Gonzalez-Rocha,Section 01
+Applied Mathematics,Fall24,AM100,Hongyun Wang,Section 01
+Applied Mathematics,Spring25,AM100,Ashesh Chattopadhyay,Section 01
+Applied Mathematics,Fall24,AM107,Nic Brummell,Section 01
+Applied Mathematics,Winter25,AM112,Hongyun Wang,Section 01
+Applied Mathematics,Fall24,AM114,Qi Gong,Section 01
+Applied Mathematics,Fall24,AM129,Sean Michael Riedel,Section 01
+Applied Mathematics,Winter25,AM147,Javier Gonzalez-Rocha,Section 01
+Applied Mathematics,Winter25,AM160,Ashesh Chattopadhyay,Section 01
+Applied Mathematics,Winter25,AM170A,Pascale Garaud,Section 01
+Applied Mathematics,Fall24,AM212,Pascale Garaud,Section 01
+Applied Mathematics,Winter25,AM213A,Dongwook Lee,Section 01
+Applied Mathematics,Spring25,AM213B,Javier Gonzalez-Rocha,Section 01
+Applied Mathematics,Fall24,AM217,Nic Brummell,Section 01
+Applied Mathematics,Spring25,AM224,Daniele Venturi,Section 01
+Applied Mathematics,Fall24,AM229,Marcella Gomez,Section 01
+Applied Mathematics,Fall24,AM238,Daniele Venturi,Section 01
+Applied Mathematics,Spring25,AM250,Nic Brummell,Section 01
+Applied Mathematics,Spring25,AM260,Dongwook Lee,Section 01
+Applied Mathematics,Winter25,AM275,Nic Brummell,Section 01
+Applied Mathematics,Fall24,AM280B,Javier Gonzalez-Rocha,Section 01
+Applied Mathematics,Winter25,AM280B,Marcella Gomez,Section 01
+Applied Mathematics,Spring25,AM280B,Ashesh Chattopadhyay,Section 01
+Applied Mathematics,Fall24,AM280C,Dongwook Lee,Section 01
+Applied Mathematics,Winter25,AM280C,Nicholas H Brummell,Section 01
+Applied Mathematics,Spring25,AM280C,Pascale Garaud,Section 01
+Applied Mathematics,Spring25,AM280C,Sang Eun Chun,Section 02
+Biomolecular Engineering,Fall24,BME5,Dianne G Hendricks,Section 01
+Biomolecular Engineering,Winter25,BME5,Nader Pourmand,Section 01
+Biomolecular Engineering,Fall24,BME18,David Haussler,Section 01
+Biomolecular Engineering,Fall24,BME21L,Nader Pourmand,Section 01
+Biomolecular Engineering,Winter25,BME21L,Nader Pourmand,Section 01
+Biomolecular Engineering,Winter25,BME22L,Dianne G Hendricks,Section 01
+Biomolecular Engineering,Spring25,BME22L,Dianne G Hendricks,Section 01
+Biomolecular Engineering,Winter25,BME23L,David L Bernick,Section 01
+Biomolecular Engineering,Spring25,BME23L,David L Bernick,Section 01
+Biomolecular Engineering,Spring25,BME80G,Karen Miga,Section 01
+Biomolecular Engineering,Fall24,BME80H,Karen Miga,Section 01
+Biomolecular Engineering,Spring25,BME105,Angela Brooks,Section 01
+Biomolecular Engineering,Fall24,BME110,Angela Brooks,Section 01
+Biomolecular Engineering,Winter25,BME110,Alexander Ioannidis,Section 01
+Biomolecular Engineering,Spring25,BME110,Ali Shariati,Section 01
+Biomolecular Engineering,Spring25,BME110,Vanessa D Jonsson,Section 02
+Biomolecular Engineering,Spring25,BME118,David Haussler,Section 01
+Biomolecular Engineering,Winter25,BME122H,David L Bernick,Section 01
+Biomolecular Engineering,Winter25,BME128,Andy H.W. Yeh,Section 01
+Biomolecular Engineering,Spring25,BME128L,Andy H.W. Yeh,Section 01
+Biomolecular Engineering,Spring25,BME128L,Andy Yeh,Section 02
+Biomolecular Engineering,Fall24,BME129A,Rebecca DuBois,Section 01
+Biomolecular Engineering,Winter25,BME129B,Russ Corbett-Detig,Section 01
+Biomolecular Engineering,Spring25,BME129C,Nader Pourmand,Section 01
+Biomolecular Engineering,Fall24,BME130,Ed Green,Section 01
+Biomolecular Engineering,Fall24,BME132,Shelbi L Russell,Section 01
+Biomolecular Engineering,Winter25,BME160,Tal Sharf,Section 01
+Biomolecular Engineering,Spring25,BME160,David L Bernick,Section 01
+Biomolecular Engineering,Spring25,BME163,Christopher S Vollmers,Section 01
+Biomolecular Engineering,Winter25,BME175,Ed Green,Section 01
+Biomolecular Engineering,Spring25,BME177,Ali Shariati,Section 01
+Biomolecular Engineering,Winter25,BME180,David L Bernick,Section 01
+Biomolecular Engineering,Fall24,BME185,Dianne G Hendricks,Section 01
+Biomolecular Engineering,Winter25,BME185,Dianne G Hendricks,Section 01
+Biomolecular Engineering,Spring25,BME185,Dianne G Hendricks,Section 01
+Biomolecular Engineering,Spring25,BME188A,David L Bernick,Section 01
+Biomolecular Engineering,Winter25,BME201,Joshua M Stuart,Section 01
+Biomolecular Engineering,Fall24,BME205,Russ Corbett-Detig,Section 01
+Biomolecular Engineering,Spring25,BME218,David Haussler,Section 01
+Biomolecular Engineering,Winter25,BME230A,Vanessa D Jonsson,Section 01
+Biomolecular Engineering,Fall24,BME232,Shelbi L Russell,Section 01
+Biomolecular Engineering,Spring25,BME263,Chris Vollmers,Section 01
+Biomolecular Engineering,Spring25,BME272,Daniel H. Kim,Section 01
+Biomolecular Engineering,Winter25,BME275,Ed Green,Section 01
+Biomolecular Engineering,Winter25,BME278,Daniel H. Kim,Section 01
+Biomolecular Engineering,Fall24,BME280B,Nader Pourmand,Section 01
+Biomolecular Engineering,Winter25,BME280B,Daniel H. Kim,Section 01
+Biomolecular Engineering,Spring25,BME280B,Angela Brooks,Section 01
+Biomolecular Engineering,Fall24,BME281D,Rebecca DuBois,Section 01
+Biomolecular Engineering,Winter25,BME281D,Rebecca DuBois,Section 01
+Biomolecular Engineering,Spring25,BME281D,Rebecca DuBois,Section 01
+Biomolecular Engineering,Fall24,BME281E,Ed Green,Section 01
+Biomolecular Engineering,Winter25,BME281E,Ed Green,Section 01
+Biomolecular Engineering,Spring25,BME281E,Ed Green,Section 01
+Biomolecular Engineering,Fall24,BME281F,Camilla E Forsberg,Section 01
+Biomolecular Engineering,Winter25,BME281F,Camilla E Forsberg,Section 01
+Biomolecular Engineering,Spring25,BME281F,Camilla E Forsberg,Section 01
+Biomolecular Engineering,Spring25,BME281G,Ali Shariati,Section 01
+Biomolecular Engineering,Fall24,BME281H,David Haussler,Section 01
+Biomolecular Engineering,Winter25,BME281H,David Haussler,Section 01
+Biomolecular Engineering,Spring25,BME281H,David Haussler,Section 01
+Biomolecular Engineering,Fall24,BME281J,Benedict John Paten,Section 01
+Biomolecular Engineering,Winter25,BME281J,Benedict John Paten,Section 01
+Biomolecular Engineering,Spring25,BME281J,Benedict John Paten,Section 01
+Biomolecular Engineering,Fall24,BME281L,Todd M Lowe,Section 01
+Biomolecular Engineering,Winter25,BME281L,Todd M Lowe,Section 01
+Biomolecular Engineering,Spring25,BME281L,Todd M Lowe,Section 01
+Biomolecular Engineering,Fall24,BME281M,Karen Miga,Section 01
+Biomolecular Engineering,Winter25,BME281M,Karen Miga,Section 01
+Biomolecular Engineering,Spring25,BME281M,Karen Miga,Section 01
+Biomolecular Engineering,Fall24,BME281N,Angela Brooks,Section 01
+Biomolecular Engineering,Winter25,BME281N,Angela Brooks,Section 01
+Biomolecular Engineering,Spring25,BME281N,Angela Brooks,Section 01
+Biomolecular Engineering,Fall24,BME281P,Nader Pourmand,Section 01
+Biomolecular Engineering,Winter25,BME281P,Nader Pourmand,Section 01
+Biomolecular Engineering,Spring25,BME281P,Nader Pourmand,Section 01
+Biomolecular Engineering,Fall24,BME281R,Daniel H. Kim,Section 01
+Biomolecular Engineering,Winter25,BME281R,Daniel H. Kim,Section 01
+Biomolecular Engineering,Spring25,BME281R,Daniel H. Kim,Section 01
+Biomolecular Engineering,Fall24,BME281T,Tal Sharf,Section 01
+Biomolecular Engineering,Fall24,BME281V,Chris Vollmers,Section 01
+Biomolecular Engineering,Winter25,BME281V,Chris Vollmers,Section 01
+Biomolecular Engineering,Spring25,BME281V,Chris Vollmers,Section 01
+Biomolecular Engineering,Fall24,BME281X,Shelbi L Russell,Section 01
+Biomolecular Engineering,Winter25,BME281X,Shelbi L Russell,Section 01
+Biomolecular Engineering,Spring25,BME281X,Shelbi L Russell,Section 01
+Biomolecular Engineering,Spring25,BME281Y,Andy H.W. Yeh,Section 01
+Biomolecular Engineering,Fall24,BME281Z,Russ Corbett-Detig,Section 01
+Biomolecular Engineering,Winter25,BME281Z,Russ Corbett-Detig,Section 01
+Biomolecular Engineering,Spring25,BME281Z,Russ Corbett-Detig,Section 01
+Computational Media,Fall24,CMPM15,David Manuel Torres-Mendoza,Section 01
+Computational Media,Winter25,CMPM15,David Manuel Torres-Mendoza,Section 01
+Computational Media,Spring25,CMPM15,David Manuel Torres-Mendoza,Section 01
+Computational Media,Fall24,CMPM17,Tela Favaloro,Section 01
+Computational Media,Fall24,CMPM17,Tela Favaloro,Section 02
+Computational Media,Fall24,CMPM17,Tela Favaloro,Section 03
+Computational Media,Fall24,CMPM17,Tela Favaloro,Section 04
+Computational Media,Winter25,CMPM17,Tela Favaloro,Section 01
+Computational Media,Winter25,CMPM17,Tela Favaloro,Section 02
+Computational Media,Winter25,CMPM17,Tela Favaloro,Section 03
+Computational Media,Fall24,CMPM25,Chris Yonge,Section 01
+Computational Media,Winter25,CMPM26,Chris Yonge,Section 01
+Computational Media,Spring25,CMPM27,Chris Yonge,Section 01
+Computational Media,Fall24,CMPM80J,Samantha Gorman,Section 01
+Computational Media,Winter25,CMPM80J,Nathan Altice,Section 01
+Computational Media,Spring25,CMPM80J,Nathan Altice,Section 01
+Computational Media,Fall24,CMPM80K,Noah G Wardrip-Fruin,Section 01
+Computational Media,Winter25,CMPM80K,Kate Ringland,Section 01
+Computational Media,Spring25,CMPM80K,Noah G Wardrip-Fruin,Section 01
+Computational Media,Winter25,CMPM110,Noah G Wardrip-Fruin,Section 01
+Computational Media,Fall24,CMPM115,Tela Favaloro,Section 01
+Computational Media,Spring25,CMPM115,Tela Favaloro,Section 01
+Computational Media,Fall24,CMPM118,David Lee,Section 01
+Computational Media,Fall24,CMPM118,Kate Ringland,Section 02
+Computational Media,Fall24,CMPM118,Jason Eshraghian,Section 03
+Computational Media,Fall24,CMPM118,Leilani H Gilpin,Section 05
+Computational Media,Winter25,CMPM118,David Lee,Section 01
+Computational Media,Winter25,CMPM118,Kate Ringland,Section 02
+Computational Media,Winter25,CMPM118,Jason Eshraghian,Section 03
+Computational Media,Winter25,CMPM118,Emmet James Whitehead,Section 04
+Computational Media,Spring25,CMPM118,David Lee,Section 01
+Computational Media,Spring25,CMPM118,Kate Ringland,Section 02
+Computational Media,Spring25,CMPM118,Jason Eshraghian,Section 03
+Computational Media,Winter25,CMPM120,Nathan Altice,Section 01
+Computational Media,Spring25,CMPM120,Jim Whitehead,Section 01
+Computational Media,Fall24,CMPM121,Adam M. Smith,Section 01
+Computational Media,Spring25,CMPM121,Markus Eger,Section 01
+Computational Media,Spring25,CMPM121,Zac Emerzian,Section 02
+Computational Media,Fall24,CMPM122,Joel Dreskin,Section 01
+Computational Media,Fall24,CMPM123,Graeme J Devine,Section 01
+Computational Media,Fall24,CMPM125,Tyler Coleman,Section 01
+Computational Media,Winter25,CMPM130,Katherine C Isbister,Section 01
+Computational Media,Winter25,CMPM146,Daniel G Shapiro,Section 01
+Computational Media,Spring25,CMPM146,Markus Eger,Section 01
+Computational Media,Spring25,CMPM147,Wes Modes,Section 01
+Computational Media,Spring25,CMPM148,Michael J Mateas,Section 01
+Computational Media,Winter25,CMPM150,Adam Sporka,Section 01
+Computational Media,Spring25,CMPM150,Brian M Hansen,Section 01
+Computational Media,Winter25,CMPM169,Wes Modes,Section 01
+Computational Media,Fall24,CMPM170,Samantha Gorman,Section 01
+Computational Media,Fall24,CMPM170,rjhangia,Section 02
+Computational Media,Fall24,CMPM170,Markus Eger,Section 03
+Computational Media,Spring25,CMPM170,Graeme J Devine,Section 02
+Computational Media,Winter25,CMPM171,Tyler Coleman,Section 01
+Computational Media,Winter25,CMPM171,Tyler Coleman,Section 02
+Computational Media,Winter25,CMPM171,Markus Eger,Section 03
+Computational Media,Spring25,CMPM172,Tyler Coleman,Section 01
+Computational Media,Spring25,CMPM172,Tyler Coleman,Section 02
+Computational Media,Fall24,CMPM176,Jared N Pettitt,Section 01
+Computational Media,Fall24,CMPM179,Wes Modes,Section 01
+Computational Media,Winter25,CMPM180,Samantha Gorman,Section 01
+Computational Media,Spring25,CMPM180,Samantha Gorman,Section 01
+Computational Media,Fall24,CMPM201,Elin Carstensdottir,Section 01
+Computational Media,Fall24,CMPM201,Elin Carstensdottir,Section 50
+Computational Media,Winter25,CMPM202,Adam M. Smith,Section 01
+Computational Media,Winter25,CMPM202,Adam M. Smith,Section 50
+Computational Media,Spring25,CMPM203,Kate Ringland,Section 01
+Computational Media,Spring25,CMPM203,Kate Ringland,Section 50
+Computational Media,Winter25,CMPM206,Sri Hastuti Kurniawan,Section 01
+Computational Media,Winter25,CMPM206,Sri Hastuti Kurniawan,Section 50
+Computational Media,Spring25,CMPM206,Sri Hastuti Kurniawan,Section 01
+Computational Media,Spring25,CMPM206,Sri Hastuti Kurniawan,Section 50
+Computational Media,Winter25,CMPM230,Mahnaz Roshanaei,Section 01
+Computational Media,Winter25,CMPM237,Elin Carstensdottir,Section 01
+Computational Media,Winter25,CMPM237,Elin Carstensdottir,Section 50
+Computational Media,Fall24,CMPM243,David Lee,Section 01
+Computational Media,Fall24,CMPM243,David Lee,Section 50
+Computational Media,Winter25,CMPM248,Michael J Mateas,Section 01
+Computational Media,Winter25,CMPM248,Michael J Mateas,Section 50
+Computational Media,Fall24,CMPM280G,Jim Whitehead,Section 01
+Computational Media,Winter25,CMPM280G,Jim Whitehead,Section 01
+Computational Media,Spring25,CMPM280G,Jim Whitehead,Section 01
+Computational Media,Fall24,CMPM280H,Katherine C Isbister,Section 01
+Computational Media,Winter25,CMPM280H,Katherine C Isbister,Section 01
+Computational Media,Spring25,CMPM280H,Katherine C Isbister,Section 01
+Computational Media,Fall24,CMPM280K,Sri Hastuti Kurniawan,Section 01
+Computational Media,Winter25,CMPM280K,Sri Hastuti Kurniawan,Section 01
+Computational Media,Spring25,CMPM280K,Sri Hastuti Kurniawan,Section 01
+Computational Media,Fall24,CMPM280P,Magy Seif El-Nasr,Section 01
+Computational Media,Winter25,CMPM280P,Magy Seif El-Nasr,Section 01
+Computational Media,Spring25,CMPM280P,Magy Seif El-Nasr,Section 01
+Computational Media,Fall24,CMPM280S,David Lee,Section 01
+Computational Media,Winter25,CMPM280S,David Lee,Section 01
+Computational Media,Spring25,CMPM280S,David Lee,Section 01
+Computational Media,Fall24,CMPM280W,Nathan Altice,Section 01
+Computational Media,Winter25,CMPM280W,Nathan Altice,Section 01
+Computational Media,Spring25,CMPM280W,Nathan Altice,Section 01
+Computational Media,Fall24,CMPM280X,Noah G Wardrip-Fruin,Section 01
+Computational Media,Winter25,CMPM280X,Noah G Wardrip-Fruin,Section 01
+Computational Media,Spring25,CMPM280X,Noah G Wardrip-Fruin,Section 01
+Computational Media,Winter25,CMPM290A,Samantha Gorman,Section 01
+Computational Media,Winter25,CMPM290A,Samantha Gorman,Section 50
+Computational Media,Spring25,CMPM290A,Adam M. Smith,Section 01
+Computational Media,Spring25,CMPM290A,Adam M. Smith,Section 50
+Computational Media,Spring25,CMPM290K,Katherine C Isbister,Section 01
+Computational Media,Spring25,CMPM290K,Katherine C Isbister,Section 50
+Computer Science and Engineering,Fall24,CSE3,Gerald B Moulds,Section 01
+Computer Science and Engineering,Winter25,CSE3,Gerald B Moulds,Section 01
+Computer Science and Engineering,Spring25,CSE3,Gerald B Moulds,Section 01
+Computer Science and Engineering,Fall24,CSE12,Sagnik Nath,Section 01
+Computer Science and Engineering,Fall24,CSE12,Marcelo Siero,Section 02
+Computer Science and Engineering,Winter25,CSE12,Sagnik Nath,Section 01
+Computer Science and Engineering,Winter25,CSE12,Marcelo Siero,Section 02
+Computer Science and Engineering,Spring25,CSE12,Sagnik Nath,Section 01
+Computer Science and Engineering,Spring25,CSE12,Marcelo Siero,Section 02
+Computer Science and Engineering,Fall24,CSE13S,Kerry Veenstra,Section 01
+Computer Science and Engineering,Fall24,CSE13S,Alex Rudnick,Section 02
+Computer Science and Engineering,Winter25,CSE13S,Kerry Veenstra,Section 01
+Computer Science and Engineering,Winter25,CSE13S,Alex Rudnick,Section 02
+Computer Science and Engineering,Spring25,CSE13S,Kerry Veenstra,Section 01
+Computer Science and Engineering,Spring25,CSE13S,Alex Rudnick,Section 02
+Computer Science and Engineering,Spring25,CSE13S,Kriti Bhargava,Section 03
+Computer Science and Engineering,Fall24,CSE16,John T Musacchio,Section 01
+Computer Science and Engineering,Fall24,CSE16,Alexandra Kolla,Section 03
+Computer Science and Engineering,Winter25,CSE16,Kyle A Miller,Section 01
+Computer Science and Engineering,Winter25,CSE16,Allen Van Gelder,Section 02
+Computer Science and Engineering,Spring25,CSE16,Patrick Tantalo,Section 01
+Computer Science and Engineering,Spring25,CSE16,Allen Van Gelder,Section 02
+Computer Science and Engineering,Fall24,CSE20,Larissa A Munishkina,Section 01
+Computer Science and Engineering,Fall24,CSE20,Oswald A Campesato,Section 02
+Computer Science and Engineering,Fall24,CSE20,Cormac A Flanagan,Section 03
+Computer Science and Engineering,Fall24,CSE20,Hao Yue,Section 04
+Computer Science and Engineering,Winter25,CSE20,Larissa A Munishkina,Section 01
+Computer Science and Engineering,Winter25,CSE20,Oswald A Campesato,Section 02
+Computer Science and Engineering,Winter25,CSE20,Benedict John Paten,Section 03
+Computer Science and Engineering,Winter25,CSE20,Hao Yue,Section 04
+Computer Science and Engineering,Spring25,CSE20,Larissa A Munishkina,Section 01
+Computer Science and Engineering,Spring25,CSE20,Oswald A Campesato,Section 02
+Computer Science and Engineering,Fall24,CSE30,Larissa A Munishkina,Section 01
+Computer Science and Engineering,Fall24,CSE30,Oswald A Campesato,Section 02
+Computer Science and Engineering,Winter25,CSE30,Larissa A Munishkina,Section 01
+Computer Science and Engineering,Winter25,CSE30,Oswald A Campesato,Section 02
+Computer Science and Engineering,Winter25,CSE30,Hao Yue,Section 03
+Computer Science and Engineering,Spring25,CSE30,Larissa A Munishkina,Section 01
+Computer Science and Engineering,Spring25,CSE30,Oswald A Campesato,Section 02
+Computer Science and Engineering,Spring25,CSE30,Hao Yue,Section 03
+Computer Science and Engineering,Fall24,CSE40,Lise Getoor,Section 01
+Computer Science and Engineering,Winter25,CSE40,Alex Rudnick,Section 01
+Computer Science and Engineering,Spring25,CSE40,Niloofar Montazeri,Section 01
+Computer Science and Engineering,Fall24,CSE80A,Roberto Manduchi,Section 01
+Computer Science and Engineering,Fall24,CSE80N,Richard J Graziani,Section 01
+Computer Science and Engineering,Winter25,CSE80N,Richard J Graziani,Section 01
+Computer Science and Engineering,Spring25,CSE80N,Christina Parsa,Section 01
+Computer Science and Engineering,Fall24,CSE100,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Winter25,CSE100,Dustin Richmond,Section 01
+Computer Science and Engineering,Spring25,CSE100,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Fall24,CSE100L,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Spring25,CSE100L,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Fall24,CSE101,Patrick Tantalo,Section 01
+Computer Science and Engineering,Fall24,CSE101,Yannis Demertzis,Section 02
+Computer Science and Engineering,Winter25,CSE101,Patrick Tantalo,Section 01
+Computer Science and Engineering,Winter25,CSE101,Niloofar Montazeri,Section 02
+Computer Science and Engineering,Spring25,CSE101,Allen Van Gelder,Section 01
+Computer Science and Engineering,Spring25,CSE101,Alex Pang,Section 02
+Computer Science and Engineering,Fall24,CSE101M,Vaggos Chatziafratis,Section 01
+Computer Science and Engineering,Winter25,CSE101M,Daniel Fremont,Section 01
+Computer Science and Engineering,Spring25,CSE101P,Niloofar Montazeri,Section 01
+Computer Science and Engineering,Fall24,CSE102,Delbert D. Bailey,Section 01
+Computer Science and Engineering,Winter25,CSE102,Sungjin Im,Section 01
+Computer Science and Engineering,Spring25,CSE102,Delbert D. Bailey,Section 01
+Computer Science and Engineering,Winter25,CSE103,Delbert D. Bailey,Section 01
+Computer Science and Engineering,Spring25,CSE103,Daniel Fremont,Section 01
+Computer Science and Engineering,Spring25,CSE105,Vaggos Chatziafratis,Section 01
+Computer Science and Engineering,Fall24,CSE107,Patrick Tantalo,Section 01
+Computer Science and Engineering,Winter25,CSE107,Patrick Tantalo,Section 01
+Computer Science and Engineering,Spring25,CSE107,Patrick Tantalo,Section 01
+Computer Science and Engineering,Fall24,CSE108,Yannis Demertzis,Section 01
+Computer Science and Engineering,Spring25,CSE109,Alexandra Kolla,Section 01
+Computer Science and Engineering,Winter25,CSE111,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Fall24,CSE113,Mohsen Lesani,Section 01
+Computer Science and Engineering,Fall24,CSE114A,Owen Arden,Section 01
+Computer Science and Engineering,Winter25,CSE114A,Cormac A Flanagan,Section 01
+Computer Science and Engineering,Winter25,CSE114A,Lindsey A Kuper,Section 02
+Computer Science and Engineering,Spring25,CSE114A,Lindsey Kuper,Section 01
+Computer Science and Engineering,Fall24,CSE115A,Richard K Jullig,Section 01
+Computer Science and Engineering,Winter25,CSE115A,Richard K Jullig,Section 01
+Computer Science and Engineering,Spring25,CSE115A,Richard K Jullig,Section 01
+Computer Science and Engineering,Winter25,CSE115B,Richard K Jullig,Section 01
+Computer Science and Engineering,Spring25,CSE115C,Richard K Jullig,Section 01
+Computer Science and Engineering,Fall24,CSE115D,Richard K Jullig,Section 01
+Computer Science and Engineering,Fall24,CSE120,Sagnik Nath,Section 02
+Computer Science and Engineering,Winter25,CSE120,Heiner Litz,Section 01
+Computer Science and Engineering,Winter25,CSE120,Abel Souza,Section 02
+Computer Science and Engineering,Spring25,CSE120,Sagnik Nath,Section 01
+Computer Science and Engineering,Spring25,CSE120,Yuanchao Xu,Section 02
+Computer Science and Engineering,Fall24,CSE121,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Spring25,CSE121,Ethan Joseph Sifferman,Section 01
+Computer Science and Engineering,Winter25,CSE122,Matthew Guthaus,Section 01
+Computer Science and Engineering,Fall24,CSE123A,Marcelo Siero,Section 01
+Computer Science and Engineering,Winter25,CSE123A,David Harrison,Section 01
+Computer Science and Engineering,Winter25,CSE123B,Marcelo Siero,Section 01
+Computer Science and Engineering,Spring25,CSE123B,David Harrison,Section 01
+Computer Science and Engineering,Fall24,CSE125,Dustin Richmond,Section 01
+Computer Science and Engineering,Fall24,CSE130,Kerry Veenstra,Section 01
+Computer Science and Engineering,Fall24,CSE130,Yuanchao Xu,Section 02
+Computer Science and Engineering,Winter25,CSE130,Kerry Veenstra,Section 01
+Computer Science and Engineering,Winter25,CSE130,Andrew Quinn,Section 02
+Computer Science and Engineering,Spring25,CSE130,Kerry Veenstra,Section 01
+Computer Science and Engineering,Spring25,CSE130,Kriti Bhargava,Section 02
+Computer Science and Engineering,Fall24,CSE132,Alvaro A. Cardenas,Section 01
+Computer Science and Engineering,Spring25,CSE134,Liting Hu,Section 01
+Computer Science and Engineering,Fall24,CSE138,Liting Hu,Section 01
+Computer Science and Engineering,Winter25,CSE138,Peter A Alvaro,Section 01
+Computer Science and Engineering,Spring25,CSE138,Peter Alvaro,Section 01
+Computer Science and Engineering,Fall24,CSE140,Niloofar Montazeri,Section 01
+Computer Science and Engineering,Winter25,CSE140,Niloofar Montazeri,Section 01
+Computer Science and Engineering,Spring25,CSE142,Alex Rudnick,Section 01
+Computer Science and Engineering,Fall24,CSE143,Alex Rudnick,Section 01
+Computer Science and Engineering,Spring25,CSE143,Jeffrey Flanigan,Section 01
+Computer Science and Engineering,Fall24,CSE144,Yi Zhang,Section 01
+Computer Science and Engineering,Winter25,CSE144,Cihang Xie,Section 01
+Computer Science and Engineering,Spring25,CSE146,Yang Liu,Section 01
+Computer Science and Engineering,Fall24,CSE150,Christina Parsa,Section 01
+Computer Science and Engineering,Winter25,CSE150,Christina Parsa,Section 01
+Computer Science and Engineering,Spring25,CSE150,Chen Qian,Section 01
+Computer Science and Engineering,Spring25,CSE151,Richard J Graziani,Section 01
+Computer Science and Engineering,Spring25,CSE151L,Richard J Graziani,Section 01
+Computer Science and Engineering,Winter25,CSE156,Mehrdad Parsa,Section 01
+Computer Science and Engineering,Spring25,CSE156,Ram Sundara Raman,Section 01
+Computer Science and Engineering,Winter25,CSE156L,Mehrdad Parsa,Section 01
+Computer Science and Engineering,Spring25,CSE156L,Ram Sundara Raman,Section 01
+Computer Science and Engineering,Spring25,CSE157,Katia Obraczka,Section 01
+Computer Science and Engineering,Winter25,CSE160,James E Davis,Section 01
+Computer Science and Engineering,Spring25,CSE160,James E Davis,Section 01
+Computer Science and Engineering,Spring25,CSE164,Cihang Xie,Section 01
+Computer Science and Engineering,Winter25,CSE180,Ishtiyaque Ahmad,Section 01
+Computer Science and Engineering,Spring25,CSE182,Nikolaos Tziavelis,Section 01
+Computer Science and Engineering,Fall24,CSE183,Luca de Alfaro,Section 01
+Computer Science and Engineering,Spring25,CSE183,Massimo Di Pierro,Section 01
+Computer Science and Engineering,Fall24,CSE185E,Gerald B Moulds,Section 01
+Computer Science and Engineering,Winter25,CSE185E,Gerald B Moulds,Section 01
+Computer Science and Engineering,Spring25,CSE185E,Gerald B Moulds,Section 01
+Computer Science and Engineering,Fall24,CSE185S,Gerald B Moulds,Section 01
+Computer Science and Engineering,Winter25,CSE185S,Gerald B Moulds,Section 01
+Computer Science and Engineering,Spring25,CSE185S,Gerald B Moulds,Section 01
+Computer Science and Engineering,Winter25,CSE186,David Harrison,Section 01
+Computer Science and Engineering,Spring25,CSE187,David Harrison,Section 01
+Computer Science and Engineering,Fall24,CSE200,Harikrishna S Kuttivelil,Section 01
+Computer Science and Engineering,Winter25,CSE201,Seshadhri Comandur,Section 01
+Computer Science and Engineering,Fall24,CSE206C,Yannis Demertzis,Section 01
+Computer Science and Engineering,Spring25,CSE209A,Vaggos Chatziafratis,Section 01
+Computer Science and Engineering,Spring25,CSE210A,Owen Arden,Section 01
+Computer Science and Engineering,Fall24,CSE214,Nikos Tziavelis,Section 01
+Computer Science and Engineering,Fall24,CSE216,Daniel Fremont,Section 01
+Computer Science and Engineering,Fall24,CSE220,Heiner Litz,Section 01
+Computer Science and Engineering,Winter25,CSE222A,Matthew Guthaus,Section 01
+Computer Science and Engineering,Spring25,CSE222B,Matthew Guthaus,Section 01
+Computer Science and Engineering,Fall24,CSE225,Dustin Richmond,Section 01
+Computer Science and Engineering,Spring25,CSE225,Dustin Alexander Richmond,Section 01
+Computer Science and Engineering,Winter25,CSE228A,Scott Beamer,Section 01
+Computer Science and Engineering,Spring25,CSE231,Andrew Quinn,Section 01
+Computer Science and Engineering,Fall24,CSE232,Lindsey Kuper,Section 01
+Computer Science and Engineering,Spring25,CSE232,Mohsen Lesani,Section 01
+Computer Science and Engineering,Winter25,CSE233,Alvaro A. Cardenas,Section 01
+Computer Science and Engineering,Fall24,CSE240,Leilani H. Gilpin,Section 01
+Computer Science and Engineering,Spring25,CSE242,Razvan V Marinescu,Section 01
+Computer Science and Engineering,Fall24,CSE244A,Yuyin Zhou,Section 01
+Computer Science and Engineering,Spring25,CSE244C,Yuyin Zhou,Section 01
+Computer Science and Engineering,Spring25,CSE247,Yi Zhang,Section 01
+Computer Science and Engineering,Winter25,CSE248,Yang Liu,Section 01
+Computer Science and Engineering,Winter25,CSE250A,Chen Qian,Section 01
+Computer Science and Engineering,Fall24,CSE253,Ram Sundara Raman,Section 01
+Computer Science and Engineering,Spring25,CSE257,Katia Obraczka,Section 01
+Computer Science and Engineering,Winter25,CSE258,Alexandra Kolla,Section 01
+Computer Science and Engineering,Winter25,CSE269,Evangelos Chatziafratis,Section 01
+Computer Science and Engineering,Fall24,CSE280G,Scott Beamer,Section 01
+Computer Science and Engineering,Winter25,CSE280G,Scott Beamer,Section 01
+Computer Science and Engineering,Spring25,CSE280G,Scott Beamer,Section 01
+Computer Science and Engineering,Fall24,CSE280N,Katia Obraczka,Section 01
+Computer Science and Engineering,Fall24,CSE280N,Chen Qian,Section 02
+Computer Science and Engineering,Winter25,CSE280N,Katia Obraczka,Section 01
+Computer Science and Engineering,Winter25,CSE280N,Chen Qian,Section 02
+Computer Science and Engineering,Spring25,CSE280N,Katia Obraczka,Section 01
+Computer Science and Engineering,Spring25,CSE280N,Chen Qian,Section 02
+Computer Science and Engineering,Fall24,CSE280O,Lindsey Kuper,Section 01
+Computer Science and Engineering,Winter25,CSE280O,Lindsey Kuper,Section 01
+Computer Science and Engineering,Spring25,CSE280O,Lindsey Kuper,Section 01
+Computer Science and Engineering,Fall24,CSE280P,Jose Renau,Section 01
+Computer Science and Engineering,Winter25,CSE280P,Jose Renau,Section 01
+Computer Science and Engineering,Spring25,CSE280P,Jose Renau,Section 01
+Computer Science and Engineering,Fall24,CSE280S,Heiner Litz,Section 01
+Computer Science and Engineering,Winter25,CSE280S,Heiner Litz,Section 01
+Computer Science and Engineering,Spring25,CSE280S,Heiner H Litz,Section 01
+Computer Science and Engineering,Fall24,CSE280V,Roberto Manduchi,Section 01
+Computer Science and Engineering,Winter25,CSE280V,Roberto Manduchi,Section 01
+Computer Science and Engineering,Spring25,CSE280V,Roberto Manduchi,Section 01
+Computer Science and Engineering,Fall24,CSE280X,Peter Alvaro,Section 01
+Computer Science and Engineering,Winter25,CSE280X,Peter Alvaro,Section 01
+Computer Science and Engineering,Spring25,CSE280X,Peter Alvaro,Section 01
+Computer Science and Engineering,Fall24,CSE290C,Razvan Marinescu,Section 01
+Computer Science and Engineering,Winter25,CSE290C,Yuyin Zhou,Section 01
+Computer Science and Engineering,Spring25,CSE290C,Yang Liu,Section 01
+Computer Science and Engineering,Fall24,CSE290D,Cihang Xie,Section 01
+Computer Science and Engineering,Fall24,CSE290N,Abel Souza,Section 01
+Computer Science and Engineering,Spring25,CSE290Q,Kyle A Miller,Section 01
+Computer Science and Engineering,Fall24,CSE290S,Peter Alvaro,Section 01
+Computer Science and Engineering,Winter25,CSE290X,Yuanchao Xu,Section 01
+Computer Science and Engineering,Fall24,CSE293,Liting Hu,Section 01
+Computer Science and Engineering,Winter25,CSE293,Ethan Joseph Sifferman,Section 01
+Electrical and Computer Engineering,Fall24,ECE8,Tae Myung Huh,Section 01
+Electrical and Computer Engineering,Winter25,ECE9,Alexey Munishkin,Section 01
+Electrical and Computer Engineering,Spring25,ECE10,Dejan Milutinovic,Section 01
+Electrical and Computer Engineering,Fall24,ECE13,Steve McGuire,Section 01
+Electrical and Computer Engineering,Spring25,ECE13,Colleen Josephson,Section 01
+Electrical and Computer Engineering,Winter25,ECE30,Paul Vroomen,Section 01
+Electrical and Computer Engineering,Spring25,ECE30,Marco A Rolandi,Section 01
+Electrical and Computer Engineering,Spring25,ECE80B,Shiva Abbaszadeh,Section 01
+Electrical and Computer Engineering,Winter25,ECE80H,Les Guliasi,Section 01
+Electrical and Computer Engineering,Winter25,ECE80T,Ken Pedrotti,Section 01
+Electrical and Computer Engineering,Fall24,ECE101,Nathan M Ellis,Section 01
+Electrical and Computer Engineering,Winter25,ECE101,Keith Allen Corzine,Section 01
+Electrical and Computer Engineering,Fall24,ECE101L,Nathan M Ellis,Section 01
+Electrical and Computer Engineering,Winter25,ECE101L,Keith Allen Corzine,Section 01
+Electrical and Computer Engineering,Fall24,ECE102,Holger Schmidt,Section 01
+Electrical and Computer Engineering,Fall24,ECE102L,Holger Schmidt,Section 01
+Electrical and Computer Engineering,Fall24,ECE103,Yu Zhang,Section 01
+Electrical and Computer Engineering,Spring25,ECE103,Hamid R Sadjadpour,Section 01
+Electrical and Computer Engineering,Fall24,ECE103L,Yu Zhang,Section 01
+Electrical and Computer Engineering,Spring25,ECE103L,Hamid R Sadjadpour,Section 01
+Electrical and Computer Engineering,Spring25,ECE104,Marco A Rolandi,Section 01
+Electrical and Computer Engineering,Fall24,ECE110,Jason Eshraghian,Section 01
+Electrical and Computer Engineering,Spring25,ECE118,Tae Myung Huh,Section 01
+Electrical and Computer Engineering,Fall24,ECE129A,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Winter25,ECE129B,Stephen C Petersen,Section 02
+Electrical and Computer Engineering,Spring25,ECE129C,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Spring25,ECE129C,Meghdad Hajimorad,Section 02
+Electrical and Computer Engineering,Fall24,ECE130,Ali Yanik,Section 01
+Electrical and Computer Engineering,Fall24,ECE130L,Ali Yanik,Section 01
+Electrical and Computer Engineering,Spring25,ECE135,Ali Yanik,Section 01
+Electrical and Computer Engineering,Spring25,ECE135L,Ali Yanik,Section 01
+Electrical and Computer Engineering,Spring25,ECE136,Austin Chen,Section 01
+Electrical and Computer Engineering,Fall24,ECE141,Gabe Elkaim,Section 01
+Electrical and Computer Engineering,Winter25,ECE151,Hao Ye,Section 01
+Electrical and Computer Engineering,Spring25,ECE152,Zouheir Rezki,Section 01
+Electrical and Computer Engineering,Spring25,ECE153,Hao Ye,Section 01
+Electrical and Computer Engineering,Winter25,ECE157,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Winter25,ECE157L,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Winter25,ECE163,Gabe Elkaim,Section 01
+Electrical and Computer Engineering,Winter25,ECE167,Colleen Josephson,Section 01
+Electrical and Computer Engineering,Fall24,ECE171,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Winter25,ECE171,Jason Eshraghian,Section 01
+Electrical and Computer Engineering,Fall24,ECE171L,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Winter25,ECE171L,Jason Eshraghian,Section 01
+Electrical and Computer Engineering,Spring25,ECE173,Jason Eshraghian,Section 01
+Electrical and Computer Engineering,Fall24,ECE174,Stephen C Petersen,Section 01
+Electrical and Computer Engineering,Fall24,ECE175,Leila Parsa,Section 01
+Electrical and Computer Engineering,Fall24,ECE175L,Leila Parsa,Section 01
+Electrical and Computer Engineering,Winter25,ECE176,Leila Parsa,Section 01
+Electrical and Computer Engineering,Winter25,ECE176L,Leila Parsa,Section 01
+Electrical and Computer Engineering,Spring25,ECE177,Keith Corzine,Section 01
+Electrical and Computer Engineering,Spring25,ECE177L,Keith Corzine,Section 01
+Electrical and Computer Engineering,Spring25,ECE180J,Yu Zhang,Section 01
+Electrical and Computer Engineering,Winter25,ECE185,Yihsu Chen,Section 01
+Electrical and Computer Engineering,Spring25,ECE204,Marco A Rolandi,Section 01
+Electrical and Computer Engineering,Fall24,ECE210,Jason Eshraghian,Section 01
+Electrical and Computer Engineering,Spring25,ECE218,Tae Myung Huh,Section 01
+Electrical and Computer Engineering,Fall24,ECE220,Shiva Abbaszadeh,Section 01
+Electrical and Computer Engineering,Winter25,ECE222,Austin Chen,Section 01
+Electrical and Computer Engineering,Fall24,ECE230,Ali Yanik,Section 01
+Electrical and Computer Engineering,Winter25,ECE232,Holger Schmidt,Section 01
+Electrical and Computer Engineering,Fall24,ECE240,Steve McGuire,Section 01
+Electrical and Computer Engineering,Winter25,ECE242,Gabe Elkaim,Section 01
+Electrical and Computer Engineering,Spring25,ECE245,Dejan Milutinovic,Section 01
+Electrical and Computer Engineering,Spring25,ECE246,Ricardo Sanfelice,Section 01
+Electrical and Computer Engineering,Spring25,ECE250,Hao Ye,Section 01
+Electrical and Computer Engineering,Fall24,ECE251,Zouheir Rezki,Section 01
+Electrical and Computer Engineering,Spring25,ECE252,Zouheir Rezki,Section 01
+Electrical and Computer Engineering,Fall24,ECE253,Hamid R Sadjadpour,Section 01
+Electrical and Computer Engineering,Spring25,ECE256,Zouheir Rezki,Section 01
+Electrical and Computer Engineering,Winter25,ECE263,Gabe Elkaim,Section 01
+Electrical and Computer Engineering,Spring25,ECE275,Yihsu Chen,Section 01
+Electrical and Computer Engineering,Winter25,ECE279,Yu Zhang,Section 01
+Electrical and Computer Engineering,Fall24,ECE280C,Dejan Milutinovic,Section 01
+Electrical and Computer Engineering,Fall24,ECE280C,Mircea Teodorescu,Section 02
+Electrical and Computer Engineering,Fall24,ECE280C,Gabe Elkaim,Section 03
+Electrical and Computer Engineering,Fall24,ECE280C,Ricardo Sanfelice,Section 04
+Electrical and Computer Engineering,Winter25,ECE280C,Dejan Milutinovic,Section 01
+Electrical and Computer Engineering,Winter25,ECE280C,Mircea Teodorescu,Section 02
+Electrical and Computer Engineering,Winter25,ECE280C,Gabe Elkaim,Section 03
+Electrical and Computer Engineering,Spring25,ECE280C,Dejan Milutinovic,Section 01
+Electrical and Computer Engineering,Spring25,ECE280C,Mircea Teodorescu,Section 02
+Electrical and Computer Engineering,Spring25,ECE280C,Gabe Elkaim,Section 03
+Electrical and Computer Engineering,Winter25,ECE280D,Yihsu Chen,Section 01
+Electrical and Computer Engineering,Fall24,ECE280N,Ali Yanik,Section 01
+Electrical and Computer Engineering,Winter25,ECE280N,Ali Yanik,Section 01
+Electrical and Computer Engineering,Spring25,ECE280N,Ali Yanik,Section 01
+Electrical and Computer Engineering,Fall24,ECE280O,Holger Schmidt,Section 01
+Electrical and Computer Engineering,Winter25,ECE280O,Holger Schmidt,Section 01
+Electrical and Computer Engineering,Spring25,ECE280O,Holger Schmidt,Section 01
+Electrical and Computer Engineering,Winter25,ECE280Z,Yu Zhang,Section 01
+Electrical and Computer Engineering,Spring25,ECE280Z,Yu Zhang,Section 01
+Electrical and Computer Engineering,Fall24,ECE290,Hao Ye,Section 01
+Electrical and Computer Engineering,Winter25,ECE290,Hao Ye,Section 01
+Electrical and Computer Engineering,Spring25,ECE290,Hao Ye,Section 01
+Electrical and Computer Engineering,Fall24,ECE291,Michael Mikio Oye,Section 01
+Electrical and Computer Engineering,Spring25,ECE293,Kenneth Pedrotti,Section 01
+Games and Playable Media,Winter25,GAME215,Adam Sporka,Section 50
+Games and Playable Media,Fall24,GAME221,Terry Smith,Section 50
+Games and Playable Media,Fall24,GAME271,Zac Emerzian,Section 50
+Games and Playable Media,Winter25,GAME272,Zac Emerzian,Section 50
+Games and Playable Media,Fall24,GAME280A,Tad A Leckman,Section 50
+Games and Playable Media,Winter25,GAME280A,Tad A Leckman,Section 50
+Human Computer Interaction,Fall24,HCI200,Elin Carstensdottir,Section 50
+Human Computer Interaction,Fall24,HCI201,Kate Ringland,Section 50
+Human Computer Interaction,Winter25,HCI202A,Ayesha Khalid,Section 50
+Human Computer Interaction,Winter25,HCI202B,Tyler Coleman,Section 50
+Human Computer Interaction,Winter25,HCI220,Mahnaz Roshanaei,Section 50
+Human Computer Interaction,Spring25,HCI271,Norman Makoto Su,Section 50
+Human Computer Interaction,Fall24,HCI272,Christina Chung,Section 50
+Human Computer Interaction,Fall24,HCI290,Yassi Moghaddam,Section 50
+Human Computer Interaction,Winter25,HCI290,Yassi Moghaddam,Section 50
+Human Computer Interaction,Spring25,HCI290,Yassi Moghaddam,Section 50
+Natural Language Processing,Fall24,NLP201,Jeffrey Flanigan,Section 50
+Natural Language Processing,Winter25,NLP202,Jeffrey Flanigan,Section 50
+Natural Language Processing,Fall24,NLP220,Jalal Mahmud,Section 50
+Natural Language Processing,Fall24,NLP243,Amita Misra,Section 50
+Natural Language Processing,Winter25,NLP245,Beth A Hockey,Section 50
+Natural Language Processing,Fall24,NLP255,Beth A Hockey,Section 50
+Natural Language Processing,Spring25,NLP270,Margaret Ilona Kroll,Section 50
+Natural Language Processing,Fall24,NLP271B,Ian Lane,Section 50
+Natural Language Processing,Winter25,NLP271B,Ian Lane,Section 01
+Natural Language Processing,Winter25,NLP280,Jeffrey Flanigan,Section 50
+Natural Language Processing,Spring25,NLP280,Ian Lane,Section 50
+Serious Games,Winter25,GAME215,Adam Sporka,Section 50
+Serious Games,Fall24,GAME221,Terry Smith,Section 50
+Serious Games,Fall24,GAME271,Zac Emerzian,Section 50
+Serious Games,Winter25,GAME272,Zac Emerzian,Section 50
+Serious Games,Fall24,GAME280A,Tad A Leckman,Section 50
+Serious Games,Winter25,GAME280A,Tad A Leckman,Section 50
+Statistics,Fall24,STAT5,Yunan Wang,Section 01
+Statistics,Fall24,STAT5,Yunan Wang,Section 02
+Statistics,Fall24,STAT5,Yunan Wang,Section 03
+Statistics,Winter25,STAT5,Marcela Alfaro-Córdoba,Section 01
+Statistics,Winter25,STAT5,Yunan Wang,Section 02
+Statistics,Winter25,STAT5,Yunan Wang,Section 03
+Statistics,Spring25,STAT5,Marcela Alfaro-Córdoba,Section 01
+Statistics,Spring25,STAT5,Yunan Wang,Section 02
+Statistics,Spring25,STAT5,Rebecca Killick,Section 03
+Statistics,Fall24,STAT7,Marcela Alfaro Cordoba,Section 01
+Statistics,Winter25,STAT7,Yunan Wang,Section 01
+Statistics,Spring25,STAT7,Juhee Lee,Section 01
+Statistics,Fall24,STAT7L,Meini Tang,Section 01
+Statistics,Fall24,STAT17,Suzana Serboi,Section 01
+Statistics,Winter25,STAT17,Yonatan Katznelson,Section 01
+Statistics,Spring25,STAT17,Yonatan Katznelson,Section 01
+Statistics,Fall24,STAT17L,Subhra Saha,Section 01
+Statistics,Fall24,STAT17L,Subhra Saha,Section 02
+Statistics,Winter25,STAT17L,Subhra Saha,Section 01
+Statistics,Winter25,STAT17L,Subhra Saha,Section 02
+Statistics,Spring25,STAT17L,Subhra Saha,Section 01
+Statistics,Spring25,STAT17L,Subhra Saha,Section 02
+Statistics,Spring25,STAT80A,Yik Lun Kei,Section 01
+Statistics,Fall24,STAT80B,Sangwon Hyun,Section 01
+Statistics,Fall24,STAT131,Bruno Sansó,Section 01
+Statistics,Fall24,STAT131,Juhee Lee,Section 02
+Statistics,Winter25,STAT131,Marcela Alfaro-Córdoba,Section 02
+Statistics,Winter25,STAT131,Richard Li,Section 01
+Statistics,Spring25,STAT131,Sangwon Hyun,Section 01
+Statistics,Spring25,STAT131,Yunan Wang,Section 02
+Statistics,Fall24,STAT132,Yik Lun Kei,Section 01
+Statistics,Winter25,STAT132,Paul Parker,Section 01
+Statistics,Spring25,STAT132,Yik Lun Kei,Section 01
+Statistics,Fall24,STAT200,Raquel Prado,Section 01
+Statistics,Fall24,STAT203,Rebecca Killick,Section 01
+Statistics,Fall24,STAT204,Paul Parker,Section 01
+Statistics,Winter25,STAT205,Sangwon Hyun,Section 01
+Statistics,Winter25,STAT205B,Bruno Sansó,Section 01
+Statistics,Winter25,STAT206B,Juhee Lee,Section 01
+Statistics,Spring25,STAT207,Richard Li,Section 01
+Statistics,Spring25,STAT208,Paul Parker,Section 01
+Statistics,Fall24,STAT209,Athanasios Kottas,Section 01
+Statistics,Spring25,STAT222,Athanasios Kottas,Section 01
+Statistics,Winter25,STAT223,Raquel Prado,Section 01
+Statistics,Fall24,STAT227,Richard Li,Section 01
+Statistics,Winter25,STAT243,Athanasios Kottas,Section 01
+Statistics,Fall24,STAT246,Robert Lund,Section 01
+Statistics,Fall24,STAT280B,Paul A Parker,Section 01
+Statistics,Spring25,STAT280B,Yik Lun Kei,Section 01
+Statistics,Fall24,STAT280D,Richard Li,Section 01
+Statistics,Winter25,STAT280D,Sangwon Hyun,Section 01
+Statistics,Spring25,STAT280D,Ju Hee Lee,Section 01
+Technology & Information Management,Fall24,TIM50,Paul Vroomen,Section 01
+Technology & Information Management,Winter25,TIM50,John T Musacchio,Section 01
+Technology & Information Management,Spring25,TIM50,Paul Vroomen,Section 01
+Technology & Information Management,Winter25,TIM58,Paul Vroomen,Section 01
+Technology & Information Management,Spring25,TIM80C,Subhas Desa,Section 01
+Technology & Information Management,Spring25,TIM147,Yi Zhang,Section 01
+Technology & Information Management,Fall24,TIM170,Subhas Desa,Section 01
+Technology & Information Management,Winter25,TIM170,Subhas Desa,Section 01
+Technology & Information Management,Spring25,TIM170,Subhas Desa,Section 01
+Technology & Information Management,Fall24,TIM172A,Subhas Desa,Section 01
+Technology & Information Management,Winter25,TIM172B,Subhas Desa,Section 01
+Technology & Information Management,Fall24,TIM172P,Subhas Desa,Section 01
+Technology & Information Management,Winter25,TIM172Q,Subhas Desa,Section 01
+Technology & Information Management,Spring25,TIM175,David Lee,Section 01
