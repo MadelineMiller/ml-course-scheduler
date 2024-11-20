@@ -1,0 +1,30 @@
+.all-projects-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	padding: 0px;
+	margin-left: -35px;
+	margin-right: -35px;
+	background-color: #fafafa;
+	border-radius: 10px;
+	/* background-color: red; */
+}
+
+.all-projects-project {
+	width: calc(100% / 3);
+	box-sizing: border-box;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.avoid-text {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+	.all-projects-project {
+		width: calc(100% / 2);
+	}
+}
