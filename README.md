@@ -17,3 +17,7 @@ To put the server up on local:
 2. `cd server`
 3. `npm install`
 4. `node server.js`
+
+### Credits
+
+This project was bootstrapped with (reactfolio)[https://github.com/truethari/reactfolio].
