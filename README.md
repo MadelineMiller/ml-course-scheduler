@@ -18,6 +18,11 @@ To put the server up on local:
 3. `npm install`
 4. `node server.js`
 
+## Where TF is everything??
+
+-   `/server/server.js`: line 84 has the prompt
+-   `src/pages/homepage.jsx`: line 106 has the output (if you want to format it to look better/my formatting is giving you bugs)
+
 ### Credits
 
 This project was bootstrapped with (reactfolio)[https://github.com/truethari/reactfolio].
