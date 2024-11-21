@@ -30,7 +30,7 @@ After you've run `npm install`, you can just run `node server.js` whenever you w
 
 ## Where TF is everything??
 
--   `/server/server.js`: line 84 has the prompt
+-   `/server/server.js`: line 84 has the prompt. This file also has the .csv reading logic. 
 -   `src/pages/homepage.jsx`: line 106 has the output (if you want to format it to look better/my formatting is giving you bugs)
 
 ### Credits
