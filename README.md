@@ -9,14 +9,16 @@ This project aims to build an intelligent course scheduling system that optimize
 1. `npm install`
 2. `npm run dev`
 
-NOTE: If you're running locally, IT WILL CRASH unless the server is up.
+> **_NOTE:_** If you're running locally, IT WILL CRASH unless the server is up.
 
 To put the server up on local:
 
 1. Open new term window
 2. `cd server`
-3. `npm install`
-4. `node server.js`
+3. `touch .env` and
+4. Edit `.env` using a code editor and add the following line: `HF_TOKEN={your_HF_API_key}` - If u don't really want to make one u can just text me & I can send u mine. You're just not supposed to put them on Github.
+5. `npm install`
+6. `node server.js`
 
 ## Where TF is everything??
 
