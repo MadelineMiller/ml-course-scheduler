@@ -16,7 +16,7 @@ To put the server up on local:
 1. Open new term window
 2. `cd server`
 3. `touch .env` and
-4. Edit `.env` using a code editor and add the following line: `HF_TOKEN={your_HF_API_key}` - If u don't really want to make one u can just text me & I can send u mine. You're just not supposed to put them on Github.
+4. Edit `.env` using a code editor and add the following line: `HF_TOKEN={your_HF_API_key}` - If u don't really want to make an API key can just text me & I can send u mine. You're just not supposed to put them on Github.
 5. `npm install`
 6. `node server.js`
 
