@@ -70,6 +70,10 @@ async function generateText(prompt) {
 // Endpoint to recommend classes
 app.post("/recommend-classes", async (req, res) => {
     try {
+        // Extract tags from the request body
+        const { tags } = req.body; 
+        console.log("Selected tags:", tags);
+
         // Prepare class information for the prompt
         const classDetails = csvData
             .map(

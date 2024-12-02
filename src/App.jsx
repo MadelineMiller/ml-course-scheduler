@@ -11,11 +11,13 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [output, setOutput] = useState('');
 
-  const generate = async () => {
+  const generate = async (selectedTags) => {
     setLoading(true);
     console.log("generating..");
     try {
-        const response = await axios.post('http://localhost:5001/recommend-classes');
+        const response = await axios.post('http://localhost:5001/recommend-classes', {
+          "tags": selectedTags
+        });
 
         if (response.data) {
             setOutput(response.data);

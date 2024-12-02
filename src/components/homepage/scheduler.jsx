@@ -168,7 +168,7 @@ const Scheduler = ({ generate }) => {
 				<CustomButton
 					variant="contained"
 					type="submit"
-					onClick={generate}
+					onClick={() => generate(selectedTags)}
 				>
 					Submit
 				</CustomButton>
