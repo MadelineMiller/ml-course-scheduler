@@ -14,7 +14,7 @@ Computer Science and Engineering,Fall24,CSE40,Lise Getoor,Section 01,4.3,3.9,124
 
 ## User Preferences (Example Tags)
 
-```diff
+```
 Student Preferences (ranked in order of importance):  
 - Clear Grading Criteria  
 - No Group Projects  
