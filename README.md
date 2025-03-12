@@ -27,11 +27,11 @@ Student Preferences (ranked in order of importance):
 
 ---
 
-## 3. Methodology
+## Methodology
 
 We explored two approaches to **generating schedules**:
 
-### 3.1 Transformer Model
+### Transformer Model
 
 We used a **sequence-to-sequence transformer model** to capture relationships between **preferences and schedule attributes**.
 
@@ -41,7 +41,7 @@ We used a **sequence-to-sequence transformer model** to capture relationships be
   - Course preference tags (e.g., *"Extra Credit"*, *"Clear Lectures"*)  
 - **Evaluation**: Model performance was assessed based on **schedule alignment with preferences**.
 
-### 3.2 Prompt Engineering
+### Prompt Engineering
 
 We experimented with **Flan-T5** and **ChatGPT API**:
 
@@ -57,7 +57,7 @@ We experimented with **Flan-T5** and **ChatGPT API**:
 
 ---
 
-## 4. Results
+## Results
 
 We evaluated **three methodologies**:
 
@@ -73,20 +73,20 @@ We evaluated **three methodologies**:
 
 ---
 
-## 5. Limitations & Future Work
+## Limitations & Future Work
 
-### 5.1 General Limitations
+### General Limitations
 
 - **Limited course data** (only next academic year's offerings available).
 - **No access to historical student schedules** for training.
 - **Does not account for course timings** (as they are published late).
 
-### 5.2 Cost vs. Input Size
+### Cost vs. Input Size
 
 - **Flan-T5** had input limitations.
 - **ChatGPT** provided better results but required **a paid version**.
 
-### 5.3 Future Improvements
+### Future Improvements
 
 - **Expand to other majors** beyond Computer Science.
 - **Consider real-time adjustments** to preferences.
@@ -94,7 +94,7 @@ We evaluated **three methodologies**:
 
 ---
 
-## 6. Conclusion
+## Conclusion
 
 Our project demonstrated the potential of **deep learning and prompt engineering** in personalized course scheduling. 
 
@@ -109,7 +109,7 @@ Beyond academic scheduling, our work has **broader applications** in:
 
 ---
 
-## 7. Team Member Contributions
+## Team Member Contributions
 
 | Team Member       | Contribution |
 |------------------|-------------|
@@ -121,9 +121,9 @@ Beyond academic scheduling, our work has **broader applications** in:
 
 ---
 
-## 8. Appendix
+## Appendix
 
-### 8.1 GitHub Repository
+### GitHub Repository
 
 🔗 **[Project Repository](https://github.com/MadelineMiller/ml-course-scheduler)**
 
