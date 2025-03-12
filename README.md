@@ -6,6 +6,10 @@ This project aims to build an intelligent course scheduling system that optimize
 
 ---
 
+## 🔍 Explore Other Branches
+
+Check out the other branches in this repository to find the code for each part of the project.
+
 ## Professor & Course Ratings Data (CSV Format)
 
 ```csv
